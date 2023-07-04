@@ -41,12 +41,19 @@ const MyPostWidget = ({ picturePath }) => {
     const formData = new FormData();
     formData.append('userId', _id);
     formData.append('description', post);
+
     if (image) {
       formData.append('picture', image);
       formData.append('picturePath', image.name);
     }
 
-    const response = await fetch(`http://localhost:3000/posts`, {
+    const environment = process.env.NODE_ENV;
+    const uri =
+      environment === 'production'
+        ? process.env.REACT_APP_API_URL
+        : 'http://localhost:3000';
+
+    const response = await fetch(`${uri}/posts`, {
       method: 'POST',
       headers: { Authorization: `Bearer ${token}` },
       body: formData,

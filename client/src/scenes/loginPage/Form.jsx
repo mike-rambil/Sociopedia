@@ -55,6 +55,12 @@ const Form = () => {
   const isLogin = pageType === 'login';
   const isRegister = pageType === 'register';
 
+  const environment = process.env.NODE_ENV;
+  const uri =
+    environment === 'production'
+      ? process.env.REACT_APP_API_URL
+      : 'http://localhost:3000';
+
   const register = async (values, onSubmitProps) => {
     // this allows us to send form info with image
     const formData = new FormData();
@@ -63,13 +69,10 @@ const Form = () => {
     }
     formData.append('picturePath', values.picture.name);
 
-    const savedUserResponse = await fetch(
-      'http://localhost:3000/auth/register',
-      {
-        method: 'POST',
-        body: formData,
-      }
-    );
+    const savedUserResponse = await fetch(`${uri}/auth/register`, {
+      method: 'POST',
+      body: formData,
+    });
     const savedUser = await savedUserResponse.json();
     onSubmitProps.resetForm();
 
@@ -79,7 +82,7 @@ const Form = () => {
   };
 
   const login = async (values, onSubmitProps) => {
-    const loggedInResponse = await fetch('http://localhost:3000/auth/login', {
+    const loggedInResponse = await fetch(`${uri}/auth/login`, {
       method: 'POST',
       headers: { 'Content-Type': 'application/json' },
       body: JSON.stringify(values),

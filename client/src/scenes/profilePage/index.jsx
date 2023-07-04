@@ -14,8 +14,14 @@ const ProfilePage = () => {
   const token = useSelector((state) => state.token);
   const isNonMobileScreens = useMediaQuery('(min-width:1000px)');
 
+  const environment = process.env.NODE_ENV;
+  const uri =
+    environment === 'production'
+      ? process.env.REACT_APP_API_URL
+      : 'http://localhost:3000';
+
   const getUser = async () => {
-    const response = await fetch(`http://localhost:3000/users/${userId}`, {
+    const response = await fetch(`${uri}/users/${userId}`, {
       method: 'GET',
       headers: { Authorization: `Bearer ${token}` },
     });

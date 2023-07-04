@@ -8,6 +8,12 @@ const AdvertWidget = () => {
   const main = palette.neutral.main;
   const medium = palette.neutral.medium;
 
+  const environment = process.env.NODE_ENV;
+  const uri =
+    environment === 'production'
+      ? process.env.REACT_APP_API_URL
+      : 'http://localhost:3000';
+
   return (
     <WidgetWrapper>
       <FlexBetween>
@@ -20,7 +26,7 @@ const AdvertWidget = () => {
         width='100%'
         height='auto'
         alt='advert'
-        src='http://localhost:3000/assets/info4.jpeg'
+        src={`${uri}/assets/info4.jpeg`}
         style={{ borderRadius: '0.75rem', margin: '0.75rem 0' }}
       />
       <FlexBetween>
