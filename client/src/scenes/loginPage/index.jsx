@@ -29,7 +29,9 @@ const LoginPage = () => {
         </Typography>
         <Form />
         <fieldset>
-          <legend>Sample User Name</legend>
+          <legend>
+            <h1>Sample User Name</h1>{' '}
+          </legend>
           <p>
             Please note, login takes 15-45 seconds due to back-end server
             COLD-START!{' '}
