@@ -36,8 +36,8 @@ const LoginPage = () => {
             Please note, login takes 15-45 seconds due to back-end server
             COLD-START!{' '}
           </p>
-          <h2>Username: Mike </h2>
-          <h2>Password: 12345 </h2>
+          <h2>Username: mike@kaamseva.com </h2>
+          <h2>Password: password123 </h2>
         </fieldset>
       </Box>
     </Box>
