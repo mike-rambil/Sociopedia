@@ -28,6 +28,15 @@ const LoginPage = () => {
           Welcome to Sociopedia, the Social Media for Sociopaths!
         </Typography>
         <Form />
+        <fieldset>
+          <legend>Sample User Name</legend>
+          <p>
+            Please note, login takes 15-45 seconds due to back-end server
+            COLD-START!{' '}
+          </p>
+          <h2>Username: Mike </h2>
+          <h2>Password: 12345 </h2>
+        </fieldset>
       </Box>
     </Box>
   );
