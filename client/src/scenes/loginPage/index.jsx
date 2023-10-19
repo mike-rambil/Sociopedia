@@ -32,7 +32,7 @@ const LoginPage = () => {
           <legend>
             <h1>Sample User Name</h1>{' '}
           </legend>
-          <p>
+          <p style={{ color: 'red' }}>
             Please note, login takes 15-45 seconds due to back-end server
             COLD-START!{' '}
           </p>
