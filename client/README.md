@@ -1,12 +1,30 @@
 # 🚀 SOCIOPEDIA: A full stack social-media application!
 
 - Stack Used: ⚙️
-  - s
+
+  - node.js
+  - react.js
+  - redux
+  - mongoDB
+  - express.js
+
+- Features: 🧰
+
+  - Friends Management
+  - Like and Comment Functionality
+  - Image Upload
+  - Post Creation
+  - Profile Management
+  - User Authorization
+  - User Authentication
+
+- [View More Details ...](https://mike-palliparambil.vercel.app/portfolio/0)
+- [Check out my Portfolio HERE !!!](https://mike-palliparambil.vercel.app)
 
 ## DESKTOP View (Dark Mode / Light Mode)
 
-| <div align="center"><img  src="https://mike-palliparambil.vercel.app/portfolio/images/sociopedia-1.png" alt="mike-rambil" /></div> | <img  src="https://mike-palliparambil.vercel.app/portfolio/images/sociopedia-2.png" alt="mike-rambil" /> |
-| ---------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------- |
+| <div align="center"><img align="center" src="https://mike-palliparambil.vercel.app/portfolio/images/sociopedia-1.png" alt="mike-rambil" /></div> | <img align="right" src="https://mike-palliparambil.vercel.app/portfolio/images/sociopedia-2.png" alt="mike-rambil" /> |
+| ------------------------------------------------------------------------------------------------------------------------------------------------ | --------------------------------------------------------------------------------------------------------------------- |
 
 ## MOBILE View (Dark Mode / Light Mode)
 
