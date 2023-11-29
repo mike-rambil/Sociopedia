@@ -27,7 +27,7 @@ The project utilizes `Redux Toolkit` for state management and incorporates full-
   - User Authorization
   - User Authentication
 
-- [View More Details ...](https://mike-palliparambil.vercel.app/portfolio/0)
+- [View More Details ...](https://mike-palliparambil.vercel.app/portfolio/Sociopedia)
 - [Check out my Portfolio HERE !!!](https://mike-palliparambil.vercel.app)
 
 ## DESKTOP View `(Dark Mode / Light Mode)`
