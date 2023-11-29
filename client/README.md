@@ -1,4 +1,17 @@
-# Getting Started with Create React App
+# 🚀 SOCIOPEDIA: A full stack social-media application!
+
+- Stack Used: ⚙️
+  - s
+
+## DESKTOP View (Dark Mode / Light Mode)
+
+| <div align="center"><img  src="https://mike-palliparambil.vercel.app/portfolio/images/sociopedia-1.png" alt="mike-rambil" /></div> | <img  src="https://mike-palliparambil.vercel.app/portfolio/images/sociopedia-2.png" alt="mike-rambil" /> |
+| ---------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------- |
+
+## MOBILE View (Dark Mode / Light Mode)
+
+| <div align="center"><img align="left" src="https://mike-palliparambil.vercel.app/portfolio/images/sociopedia-3.png" alt="mike-rambil" /></div> | <img align="right" src="https://mike-palliparambil.vercel.app/portfolio/images/sociopedia-4.png" alt="mike-rambil" /> |
+| ---------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------- |
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
