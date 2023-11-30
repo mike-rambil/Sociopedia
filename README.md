@@ -21,7 +21,7 @@ The project utilizes `Redux Toolkit` for state management and incorporates full-
 | <div align="center"><img align="left" src="https://mike-palliparambil.vercel.app/portfolio/images/sociopedia-3.png" alt="mike-rambil" /></div> | <img align="right" src="https://mike-palliparambil.vercel.app/portfolio/images/sociopedia-4.png" alt="mike-rambil" /> |
 | ---------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------- |
 
-- Stack Used: ⚙️
+- ## Stack Used: ⚙️
 
   - node.js
   - react.js
@@ -29,7 +29,7 @@ The project utilizes `Redux Toolkit` for state management and incorporates full-
   - mongoDB
   - express.js
 
-- Features: 🧰
+- ## Features: 🧰
 
   - Friends Management
   - Like and Comment Functionality
