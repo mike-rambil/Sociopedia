@@ -9,13 +9,23 @@
 The project utilizes `Redux Toolkit` for state management and incorporates full-stack authentication and authorization.
 </p>
 
+## DESKTOP View `(Dark Mode / Light Mode)`
+
+| <div align="center"><img align="center" src="https://mike-palliparambil.vercel.app/portfolio/images/sociopedia-1.png" alt="mike-rambil" /></div> | <img align="right" src="https://mike-palliparambil.vercel.app/portfolio/images/sociopedia-2.png" alt="mike-rambil" /> |
+| ------------------------------------------------------------------------------------------------------------------------------------------------ | --------------------------------------------------------------------------------------------------------------------- |
+
+## MOBILE View `(Dark Mode / Light Mode)`
+
+| <div align="center"><img align="left" src="https://mike-palliparambil.vercel.app/portfolio/images/sociopedia-3.png" alt="mike-rambil" /></div> | <img align="right" src="https://mike-palliparambil.vercel.app/portfolio/images/sociopedia-4.png" alt="mike-rambil" /> |
+| ---------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------- |
+
 - Stack Used: ⚙️
 
-- node.js
-- react.js
-- redux
-- mongoDB
-- express.js
+  - node.js
+  - react.js
+  - redux
+  - mongoDB
+  - express.js
 
 - Features: 🧰
 
@@ -29,16 +39,6 @@ The project utilizes `Redux Toolkit` for state management and incorporates full-
 
 - [View More Details ...](https://mike-palliparambil.vercel.app/portfolio/Sociopedia)
 - [Check out my Portfolio HERE !!!](https://mike-palliparambil.vercel.app)
-
-## DESKTOP View `(Dark Mode / Light Mode)`
-
-| <div align="center"><img align="center" src="https://mike-palliparambil.vercel.app/portfolio/images/sociopedia-1.png" alt="mike-rambil" /></div> | <img align="right" src="https://mike-palliparambil.vercel.app/portfolio/images/sociopedia-2.png" alt="mike-rambil" /> |
-| ------------------------------------------------------------------------------------------------------------------------------------------------ | --------------------------------------------------------------------------------------------------------------------- |
-
-## MOBILE View `(Dark Mode / Light Mode)`
-
-| <div align="center"><img align="left" src="https://mike-palliparambil.vercel.app/portfolio/images/sociopedia-3.png" alt="mike-rambil" /></div> | <img align="right" src="https://mike-palliparambil.vercel.app/portfolio/images/sociopedia-4.png" alt="mike-rambil" /> |
-| ---------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------- |
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
