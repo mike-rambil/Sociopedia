@@ -9,6 +9,8 @@
 The project utilizes `Redux Toolkit` for state management and incorporates full-stack authentication and authorization.
 </p>
 
+### [`Check out my Portfolio HERE !!!`](https://mike-palliparambil.vercel.app)
+
 ## DESKTOP View `(Dark Mode / Light Mode)`
 
 | <div align="center"><img align="center" src="https://mike-palliparambil.vercel.app/portfolio/images/sociopedia-1.png" alt="mike-rambil" /></div> | <img align="right" src="https://mike-palliparambil.vercel.app/portfolio/images/sociopedia-2.png" alt="mike-rambil" /> |
@@ -38,7 +40,6 @@ The project utilizes `Redux Toolkit` for state management and incorporates full-
   - User Authentication
 
 - [View More Details ...](https://mike-palliparambil.vercel.app/portfolio/Sociopedia)
-- [Check out my Portfolio HERE !!!](https://mike-palliparambil.vercel.app)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
