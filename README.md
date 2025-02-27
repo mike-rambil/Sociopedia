@@ -9,8 +9,8 @@
 The project utilizes `Redux Toolkit` for state management and incorporates full-stack authentication and authorization.
 </p>
 
-### [`Check out my NEW Portfolio HERE !!!`](https://michealpb.com)
-### [`Check out my OLD Portfolio HERE !!!`](https://mike-palliparambil.vercel.app)
+### [`Check out my NEW 2023 Portfolio HERE !!!`](https://michealpb.com)
+### [`Check out my OLD 2022 Portfolio HERE !!!`](https://mike-palliparambil.vercel.app)
 
 ## DESKTOP View `(Dark Mode / Light Mode)`
 
